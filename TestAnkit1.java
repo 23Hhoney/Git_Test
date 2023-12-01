@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class TestAnkit1 {
+public class TestAnkit1 {
+    public static void main(String[] args) {
+        System.out.println("This Is Ankit Class");
+    }
 }
